@@ -4,6 +4,7 @@ public class MinMax {
 	public static void main(String args[]) {
 		int array[] = new int[] { 10, 11, 88, 2, 12, 120 };
 
+		
 		// Calling getMax() method for getting max value
 		int max = getMax(array);
 		System.out.println("Maximum Value is: " + max);
